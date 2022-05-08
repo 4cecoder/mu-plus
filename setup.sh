@@ -7,5 +7,4 @@ apt update;
 apt install -y docker-ce docker-ce-cli containerd.io docker-compose;
 cd ~/;
 git clone https://github.com/MUnique/OpenMU;
-cd OpenMU;
 reboot;
