@@ -9,4 +9,3 @@ cd ~/;
 git clone https://github.com/MUnique/OpenMU;
 cd OpenMU;
 reboot;
-docker-compose up -d;
