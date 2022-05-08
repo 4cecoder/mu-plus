@@ -1,5 +1,5 @@
 # mu-plus
-quickly run mu
+quickly run mu (debian/ubuntu)
  ### setup
  `wget https://raw.githubusercontent.com/4cecoder/mu-plus/main/setup.sh && chmod +x setup.sh && ./setup.sh`
 ### start server
